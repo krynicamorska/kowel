@@ -20,6 +20,13 @@ If street exists with high probability in 1929 Polish Business Directory
 Data=`1:match, else 0:no match`
 [Cross-referenced Street names](referenced_streets.txt)
 
+#### Street Statistics (break-down)
+
+Approx. Total Addresses in 1939: ~3000+
+Longest Street: Warszawska (1919-1939) [Łucka (pre 1919)] ~329 Addresses
+Richest data set: Warszawska 97% of addresses (in known range) documented
+Shortest Street: (?) difficult to determine
+
 ## List of Businesses and People
 
 ### List of Doctor's Resident in Kowel (1920)
