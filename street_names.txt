@@ -2,19 +2,19 @@ Partial List of Street Names
 Sources: 1929 Phone Book, [Polling Stations](https://polona.pl/item/obwieszczenie-inc-na-podstawie-art-52-ordynacji-wyborczej-dz-u-r-p-nr-47-poz,OTQyNjM5MzI/0/#info:metadata)
 #
 1-go Maya
-3 Maja;3_Maja_01.jpg
-19 Stycznia;
+3 Maja
+19 Stycznia
 27 Dywizji Piechoty
 50 P.P. Strzel. Kres.
 A
 Apteczna
 B
-ks. Bandurskieog
-Bezimienna;
+Bandurskiego
+Bezimienna
 Bielinska
-Brzeska;
+Brzeska
 Brzozowa
-Budowlana;
+Budowlana
 Budyszczanska
 C
 Chmielna
@@ -22,18 +22,18 @@ Ciasna
 Cicha
 Cerkiewna
 Cmentarna
-Cyrkowa;
+Cyrkowa
 D
 Dluga
 Daszynskiego
 Dzika
 Dużo Gonczarna
 Dabrowskiego
-Dworzec Kolejowy;Kolejowa_01.jpg
+Dworzec Kolejowy
 E
 F
 Filarecka
-Fabryczna;
+Fabryczna
 G
 Gibalskiego
 Gesia
@@ -41,7 +41,7 @@ Górka
 Gospodarcza
 H
 Hoza
-Hallera;
+Hallera
 Hołówki
 Handlowa
 I
@@ -50,8 +50,8 @@ Jasna
 Jaworowa
 K
 Kąpielowa
-Kolejowa;Kolejowa_01.jpg
-Kołodnicka;
+Kolejowa
+Kołodnicka
 Komorowska
 Kościuszki
 Kowalska
@@ -69,11 +69,12 @@ Listopadowa
 Legionow
 Lubliniecka
 Ł
-Łucka(<1919)/Warszawska(1919-1939);Lucka_01.jpg,Lucka_02.jpg
+Łucka
+Warszawska
 Listopadowa
 Limanowskiego
 M
-al. Marszkalwka Pilsudskiego
+Marszałka Piłsudskiego
 Maciejowska
 Magistracka
 Mickiewicza
@@ -161,8 +162,8 @@ Wiejska
 Wola
 Wygonna
 Wspolna
-Wojskowa;Wojskowa_01.jpg
-Warszawska;Warszawska_01.jpg,Warszawska_02.jpg,Warszawska_03.jpg
+Wojskowa
+Warszawska
 pl. Wolności
 X
 Y
